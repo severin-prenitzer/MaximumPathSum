@@ -1,1 +1,2 @@
 # MaximumPathSum
+Unter "/venv/MaximumPathSum.py" finden Sie das Script, das die Aufgabe löst. Im gleichen Verzeichnis sind als "triangle1.txt" und "triangle2.txt" bereits Inputdateien vorhanden, welche die Pyramiden aus Teilaufgabe 1 bzw. 2 enthalten. Das Script fordert den Benutzer nach dem Start auf, einen dieser Dateinamen einzugeben, um die maximale Pfadsumme für die jeweilige Pyramide zu berechnen.
